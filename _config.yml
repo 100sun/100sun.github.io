@@ -3,14 +3,14 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
+name: Sun Hye Baek
 title: Senior Network System Administrator
-email: brett.h@email.co.uk
+email: sunhyebaek99@gmail.com
 website: www.github.com/sproogen/resume-theme
 
 # Social links
 twitter_username: facespics
-github_username:  sproogen
+github_username:  100sun
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
@@ -58,3 +58,5 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+
+darkmode : true
