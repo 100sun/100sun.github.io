@@ -4,9 +4,9 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Sun Hye Baek
-title: Senior Network System Administrator
+title: STUDYING COMPUTER SCIENCE, KEEN ON AI/BLOCKCHAIN/CLOUD/BIG-DATA
 email: sunhyebaek99@gmail.com
-website: www.github.com/sproogen/resume-theme
+website: https://blog.naver.com/92tjsgp14
 
 # Social links
 # twitter_username: facespics
@@ -25,9 +25,9 @@ linkedin_username: sun-hye-baek-765220166
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Sun Hye Baek and I'm studying computer science. I'm interesting in AI, Blockchain, Cloud, and Big Data. I'd love to learn new solutions. I have experience managing server and making software, mobile applications, webpage.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Programming</mark> and <mark>Eating Mango Icecream</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -41,11 +41,11 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  Alongside my interests in software engineering some of my other interests and hobbies are:
+   - Surfing
+   - Paddle-boarding
+   - Fashion
+#  - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 # Footer
 footer_show_references: true
