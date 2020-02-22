@@ -1,8 +1,14 @@
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
+  name: Ah, right
+# link: github.com/sproogen
+  github: https://github.com/100sun/ah_maj_da
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+    Mobile Application for Android which supports to-do-list proximity alarm, fine dust and rain alarm
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    Backend developer, Google Map API, Implement Proximity Alert
+- layout: top-middle
+  name: DATAPOWER
+  quote: >
+   The AI, Big Data, Cloud, Data Analysis Business Consulting Company. Their main customers are Samsung Electronics, NICE information, Hyundai Card, CJ ENM
+  description: | # this will include new lines to allow paragraphs
+    Making a homepage developed by <mark>GatsbyJS</mark> 
