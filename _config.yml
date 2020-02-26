@@ -6,29 +6,26 @@ favicon: images/my_favico.ico
 name: Sun Hye Baek
 title: Studying Computer Science/Engineering, Keen on Cloud/Bigdata
 email: sunhyebaek99@gmail.com
-website: https://blog.naver.com/92tjsgp14
+
+darkmode : true
 
 # Social links
-# twitter_username: facespics
 github_username: 100sun
-# dribbble_username: jekyll
 facebook_username: sunhye.baek.14
-# flickr_username: jekyll
 instagram_username: _100sun_
 linkedin_username: sun-hye-baek-765220166
-# https://blog.naver.com/92tjsgp14
-# pinterest_username: jekyll
-# youtube_username: globalmtb
-# googleplus_username: +jekyll
+
+additional_links:
+- title: naverblog
+  icon: /images/blog.png
+  url: https://blog.naver.com/92tjsgp14
 
 # About Section
 # about_title: About Me
 about_profile_image: images/my_profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Sun Hye Baek and I'm studying computer science. I'm interesting in AI, Blockchain, <mark>Cloud</mark>, and <mark>Big Data</mark>. I'd love to learn new solutions. I have experience managing server and making software, mobile applications, webpage.
-
-
-
+  Hi, my name's Sun Hye Baek and I'm studying computer science. I'm interesting in AI, Blockchain, <mark>Cloud</mark>, and <mark>Big Data</mark>. 
+  I'd love to learn new solutions. I have experience managing server and making software, mobile applications, webpage.
   I am studying [<mark>Algorithm</mark>](https://github.com/100sun/algorithm_in_c) and working at Datapower
 #  I am most skilled in: <mark>Programming</mark> and <mark>Eating Pizza</mark>
 
@@ -49,13 +46,13 @@ more_content: | # this will include new lines to allow paragraphs
    - Rick and Morty
    - Pop Rock
    - Fashion
-#  - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
+   
 # Footer
 footer_show_references: true
 
 # Build settings
-remote_theme: sproogen/resume-theme
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
 
 sass:
   sass_dir: _sass
@@ -64,4 +61,15 @@ sass:
 plugins:
  - jekyll-seo-tag
 
-darkmode : false
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]
