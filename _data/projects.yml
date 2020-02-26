@@ -3,10 +3,10 @@
 # link: github.com/sproogen
   github: 100sun/ah_maj_da
   quote: >
-    Mobile Application which supports setting to-do-list by space and alerting them around spaces, alerting fine dust and rain around users' home.
+    Mobile Application supporting proximity to-do-list alarm, fine dust and rain alarm around your home
   description: | # this will include new lines to allow paragraphs
     Back-end developer
-    - Importing Google Map API, Implementing Proximity Alert by <mark>Android</mark>
+    - Importing Google Map API, Implementing proximity alarm developed by <mark>Android</mark>
 
 - layout: top-middle
   name: DATAPOWER
@@ -14,13 +14,12 @@
    The AI, Big Data, Cloud, Data Analysis Business Consulting Company. Their main customers are Samsung Electronics, NICE information, Hyundai Card, CJ ENM
   description: | # this will include new lines to allow paragraphs
     Web Developer, Marketing Director, Blogger
-    - Building their website by GatsbyJS, Launching and Growing their partners'( [Equalum](https://www.equalum.io/), [Wandisco](https://www.wandisco.com/) ) official blog, Working their Google/Naver ads
+    - Building their website developed by GatsbyJS, Launching and Growing their partners'( [Equalum](https://www.equalum.io/), [Wandisco](https://www.wandisco.com/) ) official blog, Managing their Google/Naver ads
 
 - layout: top-middle
   name: Time out, Bomb!
   github: 100sun/100sun.github.io/blob/master/images/bomb.jpg
   quote: >
-    3 things that are wasted in the shower, and trying to save
-    The Alarm that alert time, water, money waste attached to the shower by <mark>Littlebits</mark>
+    A Eco-friendly Product supporting time, water, money waste alarm being attached to the shower made by <mark>Littlebits</mark>
   description: | # this will include new lines to allow paragraphs
     SW director, Taxation-related work
