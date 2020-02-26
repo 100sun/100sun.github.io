@@ -3,9 +3,9 @@
 # link: github.com/sproogen
   github: 100sun/ah_maj_da
   quote: >
-    Mobile Application for Android which supports to-do-list proximity alarm, fine dust and rain alarm
+    Mobile Application for <mark>Android</mark> which supports to-do-list proximity alarm, fine dust and rain alarm
   description: | # this will include new lines to allow paragraphs
-    Backend developer, Google Map API, Implement Proximity Alert
+    Backend developer, Google Map API, Implement Proximity Alert 
 - layout: top-middle
   name: DATAPOWER
   quote: >
