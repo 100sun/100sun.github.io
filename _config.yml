@@ -25,7 +25,9 @@ linkedin_username: sun-hye-baek-765220166
 # about_title: About Me
 about_profile_image: images/my_profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Sun Hye Baek and I'm studying computer science. I'm interesting in <mark>AI, Blockchain, Cloud, and Big Data</mark>. I'd love to learn new solutions. I have experience managing server and making software, mobile applications, webpage.
+  Hi, my name's Sun Hye Baek and I'm studying computer science. I'm interesting in AI, Blockchain, <mark>Cloud</mark>, and <mark>Big Data</mark>. I'd love to learn new solutions. I have experience managing server and making software, mobile applications, webpage.
+
+
 
   I am studying [<mark>Algorithm</mark>](https://github.com/100sun/algorithm_in_c) and working at Datapower
 #  I am most skilled in: <mark>Programming</mark> and <mark>Eating Pizza</mark>

@@ -3,15 +3,17 @@
 # link: github.com/sproogen
   github: 100sun/ah_maj_da
   quote: >
-    Mobile Application for <mark>Android</mark> which supports to-do-list proximity alarm, fine dust and rain alarm
+    Mobile Application which supports setting to-do-list by space and alerting them around spaces, alerting fine dust and rain around users' home.
   description: | # this will include new lines to allow paragraphs
-    Backend developer, Google Map API, Implement Proximity Alert 
+    Back-end developer : Importing Google Map API, Implementing Proximity Alert by <mark>Android</mark>
+
 - layout: top-middle
   name: DATAPOWER
   quote: >
    The AI, Big Data, Cloud, Data Analysis Business Consulting Company. Their main customers are Samsung Electronics, NICE information, Hyundai Card, CJ ENM
   description: | # this will include new lines to allow paragraphs
-    Making a homepage developed by <mark>GatsbyJS</mark> 
+    Web Developer, Marketing Director, Blogger : Building their website by GatsbyJS, Launching and Growing their partners' official blog([Equalum](https://www.equalum.io/),[Wandisco](https://www.wandisco.com/)), Working their Google/Naver ads
+
 - layout: top-middle
   name: Time out, Bomb!
   github: 100sun/100sun.github.io/blob/master/images/bomb.jpg
