@@ -1,7 +1,7 @@
 - layout: top-middle
-  name: Ah, right
+  name: Yes, I got it!
 # link: github.com/sproogen
-  github: https://github.com/100sun/ah_maj_da
+  github: 100sun/ah_maj_da
   quote: >
     Mobile Application for Android which supports to-do-list proximity alarm, fine dust and rain alarm
   description: | # this will include new lines to allow paragraphs
@@ -12,3 +12,11 @@
    The AI, Big Data, Cloud, Data Analysis Business Consulting Company. Their main customers are Samsung Electronics, NICE information, Hyundai Card, CJ ENM
   description: | # this will include new lines to allow paragraphs
     Making a homepage developed by <mark>GatsbyJS</mark> 
+- layout: top-middle
+  name: Time out, Bomb!
+  github: 100sun/100sun.github.io/images/timeout,bomb.jpg
+  quote: >
+    3 things that are wasted in the shower, and trying to save
+    The Alarm that alert time, water, money waste attached to the shower by <mark>Littlebits</mark>
+  description: | # this will include new lines to allow paragraphs
+    SW director, Taxation-related work
