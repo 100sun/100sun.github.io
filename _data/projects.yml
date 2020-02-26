@@ -5,16 +5,16 @@
   quote: >
     Mobile Application supporting proximity to-do-list alarm, fine dust and rain alarm around your home
   description: | # this will include new lines to allow paragraphs
-    Back-end developer
-    - Importing Google Map API, Implementing proximity alarm developed by <mark>Android</mark>
+    I implemented the most important proximity alarm importing Google Map API. I learned how the map applications work and Android language.
 
 - layout: top-middle
   name: DATAPOWER
   quote: >
    The AI, Big Data, Cloud, Data Analysis Business Consulting Company. Their main customers are Samsung Electronics, NICE information, Hyundai Card, CJ ENM
   description: | # this will include new lines to allow paragraphs
-    Web Developer, Marketing Director, Blogger
-    - Building their website developed by GatsbyJS, Launching and Growing their partners'( [Equalum](https://www.equalum.io/), [Wandisco](https://www.wandisco.com/) ) official blog, Managing their Google/Naver ads
+    I worked for a Web Developer, Marketing Director and Blogger. I built their website developed by GatsbyJS and 
+    made their partners'( [Equalum](https://www.equalum.io/), [Wandisco](https://www.wandisco.com/) ) official blogs. Also I managed their Google/Naver ads.
+    Mostly, I learned how the corporation works. 
 
 - layout: top-middle
   name: Time out, Bomb!
@@ -22,4 +22,4 @@
   quote: >
     A Eco-friendly Product supporting time, water, money waste alarm being attached to the shower made by <mark>Littlebits</mark>
   description: | # this will include new lines to allow paragraphs
-    SW director, Taxation-related work
+    As a SW director, I implemented Taxation-related work using google docs and cloud bits.
