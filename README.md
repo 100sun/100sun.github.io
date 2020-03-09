@@ -1,4 +1,5 @@
-# This is 100sun's homepage jekyll. This will keep updated.
+# This is 100sun's homepage
+Theme is the jekyll and I use the ghost platform. This webpage will keep updated.
 
 ### history of my blog platform : naver -> tistory -> medium -> ghost
 For the first time, I had to use a [naver blog](https://blog.naver.com/92tjsgp14) to do assginments writing about the C++ programming.
