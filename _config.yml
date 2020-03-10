@@ -26,7 +26,7 @@ about_profile_image: images/my_profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Sophia and I'm studying computer science. I'm interesting in <mark>AI, Blockchain, Cloud, and Big Data</mark>. 
   I'd love to learn new solutions. I have experience managing server and making software, mobile applications, webpage.
-  I am studying [<mark>Algorithm, Docker and AWS</mark>](https://github.com/100sun/algorithm_in_c) and working at Datapower.
+  I am studying [<mark>Algorithm, Docker and AWS</mark>](https://github.com/100sun/my_coding_interview) and working at Datapower.
 #  I am most skilled in: <mark>Programming</mark> and <mark>Eating Pizza</mark>
 
 # Projects Section
