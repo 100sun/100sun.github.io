@@ -11,10 +11,12 @@
 - layout: left
   company: SOPT
   jobs:
-  #  - title: 25 Server Part MVP
-  #    dates: March 2020 - Feburary 2019
+    - title: 26 Server Part
+      dates: March 2020 - August 2020
+      link : https://github.com/our-sopt-server-team7/100sun
     - title: 23 Server Part 
       dates: August 2018 - Feburary 2019
+      link : https://github.com/100sun/SOPT-23-Server 
   dates: 
   quote: >
    The biggest IT venture club between university student 

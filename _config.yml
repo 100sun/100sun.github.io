@@ -25,8 +25,7 @@ additional_links:
 about_profile_image: images/my_profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Sophia and I'm studying computer science. I'm interesting in <mark>AI, Blockchain, Cloud, and Big Data</mark>. 
-  I'd love to learn new solutions. I have experience managing server and making software, mobile applications, webpage.
-  I am studying [<mark>Algorithm, Docker and AWS</mark>](https://github.com/100sun/my_coding_interview) and working at Datapower.
+  I'd love to learn new solutions. I have experience managing server and making mobile applications, webpage.
 #  I am most skilled in: <mark>Programming</mark> and <mark>Eating Pizza</mark>
 
 # Projects Section
@@ -44,8 +43,7 @@ more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in software engineering some of my other interests and hobbies are:
    - Surfing
    - Rick and Morty
-   - Pop Rock
-   - Fashion
+   - Riding a bicycle
    
 # Footer
 footer_show_references: true

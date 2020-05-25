@@ -1,3 +1,11 @@
+- layout: left 
+  name: Seoul Sungshin Women University
+  dates: 2018 - Present
+  qualification: BSc Computer Science / Computer Engineer
+  description: | # this will include new lines to allow paragraphs
+    During my time at SSWU I learnt most of my key skills and base knowledgement. I thouroughly enjoyed my time as university. 
+    I spent a lot of my free time as a committee member of the *Information System Engineering Club* teaching the juniors.
+
 - layout: left
   name: California State University, Fullerton
   dates: 2019
@@ -8,14 +16,6 @@
     During my time at CSUF I learnt using open-source software and their programming style. I experienced different cultures and diversity in California. So I could make a global mindset and teamwork. 
     I spent a lot of my free time as a member of the *CSUF Adventure Club* and learnt a healthy work life balance.
 
-- layout: left 
-  name: Seoul Sungshin Women University
-  dates: 2018 - Present
-  qualification: BSc Computer Science / Computer Engineer
-  description: | # this will include new lines to allow paragraphs
-    During my time at SSWU I learnt most of my key skills and base knowledgement. I thouroughly enjoyed my time as university. 
-    I spent a lot of my free time as a committee member of the *Information System Engineering Club* teaching the juniors.
-    
 - layout: left    
   name: Seoul Paekam Highschool
   dates: 2016 - 2018
