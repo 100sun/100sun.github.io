@@ -1,4 +1,4 @@
-- layout: left 
+- layout: left
   name: Seoul Sungshin Women University
   dates: 2018 - Present
   qualification: BSc Computer Science / Computer Engineer
@@ -10,13 +10,13 @@
   name: California State University, Fullerton
   dates: 2019
   qualification: BSc Computer Science
-# quote: >
-#   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+  # quote: >
+  #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
   description: | # this will include new lines to allow paragraphs
     During my time at CSUF I learnt using open-source software and their programming style. I experienced different cultures and diversity in California. So I could make a global mindset and teamwork. 
     I spent a lot of my free time as a member of the *CSUF Adventure Club* and learnt a healthy work life balance.
 
-- layout: left    
+- layout: left
   name: Seoul Paekam Highschool
   dates: 2016 - 2018
   qualification: BSc Science
