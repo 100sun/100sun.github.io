@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: 100sun/100sun.github.io
 favicon: images/my_favico.ico
 
 # Personal info
@@ -7,7 +7,8 @@ name: Sun Hye Baek
 title: Studying Computer Science/Engineering, Keen on Cloud/Bigdata
 email: sunhyebaek99@gmail.com
 
-darkmode: true
+# Dark Mode (true/false/never)
+darkmode: false
 
 # Social links
 github_username: 100sun
