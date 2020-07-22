@@ -7,7 +7,7 @@ name: Sun Hye Baek
 title: Studying Computer Science/Engineering, Keen on Cloud/Bigdata
 email: sunhyebaek99@gmail.com
 
-darkmode : true
+darkmode: true
 
 # Social links
 github_username: 100sun
@@ -16,16 +16,16 @@ instagram_username: _100sun_
 linkedin_username: sun-hye-baek-765220166
 
 additional_links:
-- title: naverblog
-  icon: /images/blog.png
-  url: https://blog.naver.com/92tjsgp14
+  - title: naverblog
+    icon: /images/blog.png
+    url: https://blog.naver.com/92tjsgp14
 
 # About Section
 # about_title: About Me
 about_profile_image: images/my_profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Sophia and I'm studying computer science. I'm interesting in <mark>AI, Blockchain, Cloud, and Big Data</mark>. 
-  I'd love to learn new solutions. I have experience managing server and making mobile applications, webpage.
+  Hi, my name's Sophia and I'm studying computer science. I'm interested in <mark>AI, Blockchain, Cloud, and Big Data</mark>. 
+  I'd love to learn new solutions. I have experience as a back-end developer and webpage making.
 #  I am most skilled in: <mark>Programming</mark> and <mark>Eating Pizza</mark>
 
 # Projects Section
@@ -41,10 +41,11 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in software engineering some of my other interests and hobbies are:
+  - Listening to Rock
    - Surfing
    - Rick and Morty
    - Riding a bicycle
-   
+
 # Footer
 footer_show_references: true
 
@@ -57,17 +58,18 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
 
-exclude : [
-  "Gemfile",
-  "Gemfile.lock",
-  "node_modules",
-  "vendor/bundle/",
-  "vendor/cache/",
-  "vendor/gems/",
-  "vendor/ruby/",
-  "lib/",
-  "scripts/",
-  "docker-compose.yml",
+exclude:
+  [
+    "Gemfile",
+    "Gemfile.lock",
+    "node_modules",
+    "vendor/bundle/",
+    "vendor/cache/",
+    "vendor/gems/",
+    "vendor/ruby/",
+    "lib/",
+    "scripts/",
+    "docker-compose.yml",
   ]
