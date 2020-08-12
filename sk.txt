@@ -85,6 +85,17 @@ cli명령어 뿐
 
 
 
+storage, database: 둘 다 저장소 but on Cloud
+
+각 용도에 맞는 데이터베이스 선택 필요
+
+네, 
+<실습 2.1 mysql 데이타베이스를 이용한 웹서버 만들기>
+3. 데이터베이스에 들어가서 새 mysql '서버' (데이터베이스X) 생성
+4. cloudshell: mysql호스트이름, mysql admin 계정 틀리지 않게 주의
+7번이 나오지 않으면, firewall에 문제가 있을 수 있습니다. 내일 더 질문을 받겠습니다.
+
+리전: web(front-end), mysql(backend) 의 리전이 같아야 함
 
 
 
