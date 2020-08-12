@@ -1,0 +1,94 @@
+분까지 쉬는시간입니다.
+
+안녕하세요, 질문이나 이해가 잘 되지 않는 부분 있다면 자유롭게 말씀해주세요.
+
+부분을 이해하는 데 힘들다고 합니다. 다시 한 번 설명해 주시면 좋을 것 같습니다. 
+
+강사님, 천천히 설명 부탁드립니다.
+교재, 계정정보,랩파일 : https://bit.ly/3iqC7hE
+실습가이드: https://bit.ly/31LtlUT
+
+
+
+
+1. Azure Terraform
+2. Azure Storage and Database Service
+3. Azure Web Service ( Webapp, Logic Apps, Fuctions )
+4. Azure Container Service
+
+compute vm
+network vnet
+story 별도의 디스크 vm내의 게스트 OS 파일 쉐어 스토리지 
+
+availaty set -> 리전 모여서 geography
+수많은 리전들
+애저에서 리소스 생성위해서는 유저 어카운트 
+리소스 종량제 구독 필 
+1. 리전 구독
+2. 리소스 그룹으로 관리 : ARM by gui 
+3. 스토리지 서비스
+IaaS -> infra => 플랫폼,스토리지 : 웹서버를 따로 깔필요X
+PaaS -> 가상머신 외에도 어플리케이션
+<데이터베이스>
+코스모스db:비정형
+sql:정형
+mariadb, postgre: 오픈소스
+<AWS>
+앱서비스Webapp, 매니지먼트, logic apps, evengrid 구독, 함수 앱(서버리스)
+<Container> 마지막날
+컨테이너 도커 이미지 in 레지스트리(공유), in kubernetes(배포) => azure's managed service
+=> 연계시키는 경험
+
+
+infrastrcuture = compute + network + storage by GUI(vm) +AZCLI (script)
+imperative
+desired stack via code => provisioning => validation
+설정 생성, 유지
+
+why? 1. mid/final : terraform이용해 인프라 자동화/관리 => vmss
+
+cli: terraform, azure cli, docker cli, kubernetis cli
+닷넷 코드 vscode
+=> 대신 리눅스셸
+
+가상머신 rdp에서 => student desktop
+
+windows subsystem furniture
+
+우분투 18.04
+파워셸 관리자모드에서 명령어 http
+ssh 리눅스 코드로 하면 귀찮기에
+
+' 1. Microsoft store -> 검색 -> ubuntu 20.04 LTS 설치 '에서 ubuntu 20.04버전이 아닌 ubuntu 18.04버전으로 설치해주세요.
+
+리소스그룹은 새로 생성하시지 마시고, 기존 항목 설치에서 미국 동부의 studentRG, 미국 서부의 studentRG1, 일본 동부의 studentRG2 세개의 리소스 그룹 중 선택해주세요.
+
+
+11시까지 'Day0 실습환경 준비하기'를 해주시고, 먼저 설치 끝내신 분은 쉬는시간 가지시면 됩니다.
+
+826 7634 6176
+
+windows: docker desktop => 도커 데몬(서버)가 올라감
+
+<docker cli>
+난 클라이언트
+서버: tcp://0.0.0.0:2375
+<kubectl>
+이건 클라이언트
+서버는 마스터노드 위에 api가 올라갈때 
+<terraform>
+cli명령어 뿐
+
+리소스를 배포하려면 구독이 있어야하고
+구독은 유저에게 assign
+=>azure cloud login <- azure명령어 
+
+
+
+
+
+
+
+
+
+
