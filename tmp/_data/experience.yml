@@ -1,0 +1,38 @@
+- layout: left
+  company: DATAPOWER
+  # link: datapower.company
+  job_title: Intern, Web Developer, Marketing Director
+  dates: August 2019 - Present
+  quote: >
+    The AI, Big Data, Cloud, Data Analysis Business Consulting Company. Their main customers are *Samsung Electronics, NICE information, Hyundai Card, CJ ENM*
+  description: | # this will include new lines to allow paragraphs
+    Participating in Azure PoC with NICE, Building their homepage, Writing posts on their partners' official blog, Managing their Google/Naver ads.
+
+- layout: left
+  company: SOPT
+  jobs:
+    - title: 26 Server Part
+      dates: March 2020 - August 2020
+      link: https://github.com/our-sopt-server-team7/100sun
+    - title: 23 Server Part
+      dates: August 2018 - Feburary 2019
+      link: https://github.com/100sun/SOPT-23-Server
+  dates:
+  quote: >
+    The biggest IT venture club between university student
+  description: | # this will include new lines to allow paragraphs
+    Deploy Server using Node.js & Spring Boot Framework, Experience the entire process of in charge of the backend in the project, Supporters of Global Leaders Forum, Planning their 10th anniversary conference
+
+- layout: left
+  company: TIPS
+  dates: June 2018 - August 2018
+  description: | # this will include new lines to allow paragraphs
+    Learn C/MFC/Socket from a Microsoft MVP (2012-) in Microsft Korea
+
+- layout: left
+  company: COMMA
+  dates: March 2018 - August 2019
+  quote: >
+    Information System Enginnering club in SSWU
+  description: | # this will include new lines to allow paragraphs
+    Teaching the juniors and launching some projects with their members

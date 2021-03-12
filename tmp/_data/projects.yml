@@ -1,0 +1,35 @@
+- layout: top-middle
+  name: InventoryBox
+  github: InventoryBox/InventoryBox_Server
+  quote: >
+    Inventory management application for individual restaurant operators
+  description: | # this will include new lines to allow paragraphs
+    As a back-end developer, I designed the database with oracle sql and built "inventory tracking" and "inventory exchange" capabilities based on the cloud using AWS EC2 and S3. 
+    I learned cooperation through GitHub through collaboration with two other back-end developers, and also through collaboration with six front-end and three designers, I learned the project flow.
+
+- layout: top-middle
+  name: DATAPOWER
+  quote: >
+    The AI, Big Data, Cloud, Data Analysis Business Consulting Company. Their main customers are Samsung Electronics, NICE information, Hyundai Card, CJ ENM
+  description: | # this will include new lines to allow paragraphs
+    I worked for a Web Developer, Marketing Director and Blogger. 
+    I built their website developed by GatsbyJS and made their partners' official blogs. 
+    Also I managed their Google/Naver ads. 
+    Mostly, I translated the technology documentations and joined some projects as a translator.
+
+- layout: top-middle
+  name: Yes, I got it!
+  # link: github.com/sproogen
+  github: 100sun/ah_maj_da
+  quote: >
+    Mobile Application supporting proximity to-do-list alarm, fine dust and rain alarm around your home
+  description: | # this will include new lines to allow paragraphs
+    I implemented the most important proximity alarm importing Google Map API. I learned how the map applications work and Android language.
+
+- layout: top-middle
+  name: Time out, Bomb!
+  github: 100sun/100sun.github.io/blob/master/images/bomb.jpg
+  quote: >
+    A Eco-friendly Product supporting time, water, money waste alarm being attached to the shower made by <mark>Littlebits</mark>
+  description: | # this will include new lines to allow paragraphs
+    As a SW director, I implemented Taxation-related work using google docs and cloud bits.
