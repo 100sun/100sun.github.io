@@ -8,12 +8,12 @@ title: Studying Computer Science/Engineering, Keen on Cloud/Bigdata
 email: sunhyebaek99@gmail.com
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 github_username: 100sun
 facebook_username: sunhye.baek.14
-instagram_username: _100sun_
+# instagram_username: _100sun_
 linkedin_username: sun-hye-baek-765220166
 
 additional_links:
@@ -25,8 +25,8 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/my_profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Sophia and I'm studying computer science. I'm interested in <mark>AI, Blockchain, Cloud, and Big Data</mark>. 
-  I'd love to learn new solutions. I have experience as a back-end developer and webpage making.
+  Hi, my name's Sophia and I'm studying computer science. I'm interested in <mark>Cloud, and Big Data</mark>. 
+  I'd love to learn new solutions. I have experience as a back-end developer.
 #  I am most skilled in: <mark>Programming</mark> and <mark>Eating Pizza</mark>
 
 # Projects Section
