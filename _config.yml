@@ -1,6 +1,6 @@
 # Site
 repository: 100sun/100sun.github.io
-favicon: images/my_favico.ico
+favicon: images/my_favicon.ico
 
 # Content configuration version
 version: 2
@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Sun Hye Baek
 title: Studying Computer Science/Engineering, Keen on Cloud/Bigdata
-email: sunhyebaek99@gmail.com
+email: sunhyebaek1@gmail.com
 # website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
@@ -59,15 +59,54 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring title
-        link: boringtitle.com
+        title: Megazone Cloud
+        link: https://www.megazone.com/us/
         # link_text: boringtitle.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        additional_links:
+          - title:  SpaceOne
+            icon: fab fa-globe
+            url: https://www.spaceone.org/
+        sub_title: Backend Devloper
+        caption: Jan 2021 – Mar 2021
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          SpaceONE is an Open-Source Platform and Enables Integrated Management of Multi-Cloud.
         description: | # this will include new lines to allow paragraphs
-            Every title needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole title stays connected. I lead a team of 5 people and enjoy driving the title to try new technologies.
+          Developed plugins to collect user data in the various cloud services using AWS boto3 API and Alibaba Cloud Python SDK for the marketplace of SpaceONE.
+      - layout: left
+        title: DataPower
+        link: https://www.datapower.company/
+        # link_text: boringtitle.com
+        additional_links:
+          - title:  SpaceOne
+            icon: fab fa-globe
+            url: https://www.spaceone.org/
+        sub_title: Backend Devloper
+        caption: Jan 2021 – Mar 2021
+        quote: >
+          Datapoweris Data Integration consulting company.
+        description: | # this will include new lines to allow paragraphs
+          Built a company’s website by GatsbyJS.
+          Made and operated their partner’s official blogs – Equalum, Wandisco.
+          Configured test server (Helm Chart etc) and Equalum servers as a technical engineer.
+          Contributed in the project to migrate faster for KOBIC as a technical interpreter in the whole progress resulting in reducing migration time from few days to few hours.
+          Translated a number of documents related to data infrastructure solutions.
+      - layout: left
+        title: Global Knowledge
+        link: https://www.globalknowledge.com 
+        # link_text: boringtitle.com
+        additional_links:
+          - title:  SpaceOne
+            icon: fab fa-globe
+            url: https://www.spaceone.org/
+        sub_title: Backend Devloper
+        caption: Jan 2021 – Mar 2021
+        quote: >
+          Instructed the employees of SK C&C as an assistant for the cloud education.
+        description: | # this will include new lines to allow paragraphs
+          Instructed Terraform, Docker, Kubernetes, AWS Cloud Services, Azure Cloud services, and the cloud Infrastructure as an assistant.
+
+
+      
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
