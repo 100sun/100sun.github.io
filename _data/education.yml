@@ -19,7 +19,7 @@
 - layout: left
   name: Seoul Paekam Highschool
   dates: 2016 - 2018
-  qualification: BSc Science
+  qualification: Science
   description: | # this will include new lines to allow paragraphs
     During my time at Paekam I learnt Python Language and wrote an R&E(Research & Experiment) essay about *Our Countermeasures for the Big Data Era* using Hadoop and Nifi. 
     I spent a lot of my free time as a member of the *PaekAm Science Club* experimenting with interesting science.
