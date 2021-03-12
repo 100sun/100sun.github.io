@@ -31,10 +31,10 @@ linkedin_username: sun-hye-baek-765220166
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: naverblog
-  icon: fas fa-globe
-  url: https://blog.naver.com/92tjsgp14 
+# additional_links:
+# - title: naverblog
+#   icon: fas fa-globe
+#   url: https://blog.naver.com/92tjsgp14 
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -59,15 +59,15 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
+        title: The Boring title
+        link: boringtitle.com
+        # link_text: boringtitle.com
         sub_title: Senior Network System Administrator
         caption: November 2017 - Present
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            Every title needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole title stays connected. I lead a team of 5 people and enjoy driving the title to try new technologies.
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -75,7 +75,7 @@ content:
       - layout: top-middle
         title: Scholarship Chatbot
         link: https://pf.kakao.com/_xgxjxaPK
-        link_text: https://pf.kakao.com/_xgxjxaPK
+        link_text: Find your customized scholarships by answering simple questions!
         # additional_links:
         #   - title:  sproogen/modern-resume-theme
         #     icon: fab fa-github
@@ -109,27 +109,85 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        title: Seoul Sungshin Women University
+        caption: 2018 - 2022
+        sub_title: BSc Computer Science / Computer Engineer
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          During my time at SSWU I learnt most of my key skills and base knowledgement. I thouroughly enjoyed my time as university. 
+          I spent a lot of my free time as a committee member of the *Information System Engineering Club* teaching the juniors.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+      - layout: left
+        title: California State University, Fullerton
+        caption: 2019
+        sub_title: BSc Computer Science
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          During my time at CSUF I learnt using open-source software and their programming style. I experienced different cultures and diversity in California. So I could make a global mindset and teamwork. 
+          I spent a lot of my free time as a member of the *CSUF Adventure Club* and learnt a healthy work life balance.
 
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      - layout: left
+        title: Seoul Paekam Highschool
+        caption: 2016 - 2018
+        sub_title: Science
+        description: | # this will include new lines to allow paragraphs
+          During my time at Paekam I learnt Python Language and wrote an R&E(Research & Experiment) essay about *Our Countermeasures for the Big Data Era* using Hadoop and Nifi. 
+          I spent a lot of my free time as a member of the *PaekAm Science Club* experimenting with interesting science.
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+
+
+  - title: Organizations
+    layout: list # Type of content section (list/text)
+    content:
+      # - layout: left
+      #   title: Seoul Sungshin Women University
+      #   caption: 2018 - 2022
+      #   sub_title: BSc Computer Science / Computer Engineer
+      #   description: | # this will include new lines to allow paragraphs
+      #     During my time at SSWU I learnt most of my key skills and base knowledgement. I thouroughly enjoyed my time as university. 
+      #     I spent a lot of my free time as a committee member of the *Information System Engineering Club* teaching the juniors.
+    
+      - layout: left
+        title: SOPT
+        jobs:
+          - title: 26 Server Part
+            caption: March 2020 - August 2020
+            link: https://github.com/our-sopt-server-team7/100sun
+          - title: 23 Server Part
+            caption: August 2018 - Feburary 2019
+            link: https://github.com/100sun/SOPT-23-Server
+        # caption:
+        sub_title: >
+          The biggest IT venture club between university student
+        description: | # this will include new lines to allow paragraphs
+          Deploy Server using Node.js & Spring Boot Framework, Experience the entire process of in charge of the backend in the project, Supporters of Global Leaders Forum, Planning their 10th anniversary conference
+
+      - layout: left
+        title: TIPS
+        caption: June 2018 - August 2018
+        link: https://blog.naver.com/92tjsgp14 
+        link_text: Notes of the course on Naver Blog
+        description: | # this will include new lines to allow paragraphs
+          Learn C/MFC/Socket from a Microsoft MVP (2012-) in Microsft Korea
+
+      - layout: left
+        title: COMMA
+        caption: March 2018 - August 2019
+        sub_title: >
+          Information System Enginnering club in SSWU
+        description: | # this will include new lines to allow paragraphs
+          Teaching the juniors and launching some projects with their members
+
+    # layout: text
+    # content: | # this will include new lines to allow paragraphs
+    #   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+    #   - Rock climbing
+    #   - Gaming
+    #   - Knitting
+    #   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
+    #   Look at this cool image  
+    #   ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
